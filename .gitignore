@@ -2,3 +2,6 @@
 /binaries
 /coverage*.txt
 /apidocs/*.html
+mediamtxdroid.aar
+mediamtxdroid-sources.jar
+/mediamtxdroid.aar.cache

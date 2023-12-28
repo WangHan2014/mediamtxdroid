@@ -29,7 +29,7 @@ import (
 	"github.com/bluenviron/mediamtx/internal/servers/webrtc"
 )
 
-var version = "v0.0.0"
+var version = "v1.4.1"
 
 var defaultConfPaths = []string{
 	"rtsp-simple-server.yml",
