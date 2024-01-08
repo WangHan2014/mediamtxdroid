@@ -8,8 +8,8 @@ require (
 	github.com/alecthomas/kong v0.8.1
 	github.com/aler9/writerseeker v1.1.0
 	github.com/bluenviron/gohlslib v1.0.6
-	github.com/bluenviron/gortsplib/v4 v4.6.2
-	github.com/bluenviron/mediacommon v1.5.1
+	github.com/bluenviron/gortsplib/v4 v4.6.3
+	github.com/bluenviron/mediacommon v1.6.0
 	github.com/datarhei/gosrt v0.5.5
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/gin-gonic/gin v1.9.1
@@ -65,15 +65,9 @@ require (
 	github.com/ugorji/go/codec v1.2.11 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/exp/shiny v0.0.0-20231226003508-02704c960a9b // indirect
-	golang.org/x/image v0.14.0 // indirect
-	golang.org/x/mobile v0.0.0-20231127183840-76ac6878050a // indirect
-	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
-	golang.org/x/sync v0.5.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	golang.org/x/tools v0.16.1 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
